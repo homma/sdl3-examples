@@ -5,7 +5,7 @@ SDL3 sample programs
 #### Prerequisites
 
 ````console
-$ brew install sdl3
+$ brew install sdl3 glm pkg-config
 ````
 
 #### Building Examples
